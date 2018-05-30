@@ -40,7 +40,7 @@ module.exports = {
   <title>Document</title>
   <script src="https://cdn.jsdelivr.net/npm/react@16.4.0/umd/react.production.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/react-dom@16.4.0/umd/react-dom.production.min.js"></script>
-  <script src="/umd/react-echarts.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/react-echarts-umd/umd/react.echarts.js"></script>
 </head>
 
 <body>
