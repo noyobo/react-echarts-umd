@@ -1,5 +1,5 @@
 {
-  "name": "r-echarts",
+  "name": "recharts",
   "version": "1.0.0",
   "description": "echarts-for-react umd library",
   "main": "src/index.js",
