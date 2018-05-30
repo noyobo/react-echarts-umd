@@ -20,7 +20,7 @@ module.exports = {
   externals: {
     react: 'React',
     'react-dom': 'ReactDOM',
-    'echarts-for-react': 'recharts',
-    recharts: 'recharts',
+    'echarts-for-react': 'ReactEcharts',
+    'react-echarts-umd': 'ReactEcharts',
   },
 };

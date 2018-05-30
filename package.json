@@ -1,9 +1,9 @@
 {
-  "name": "recharts",
+  "name": "react-echarts-umd",
   "version": "1.0.0",
   "description": "echarts-for-react umd library",
   "main": "src/index.js",
-  "repository": "git@github.com:noyobo/r-echarts.git",
+  "repository": "git@github.com:noyobo/react-echarts-umd.git",
   "author": "noyobo <nongyoubao@alibaba-inc.com>",
   "license": "MIT",
   "scripts": {
@@ -13,12 +13,12 @@
   },
   "files": ["umd", "src", "demo"],
   "dependencies": {
-    "babel-loader": "^8.0.0-beta.3",
     "echarts": "^4.1.0",
     "echarts-for-react": "^2.0.11"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0-beta.49",
+    "babel-loader": "^8.0.0-beta.3",
     "@babel/preset-env": "^7.0.0-beta.49",
     "@babel/preset-react": "^7.0.0-beta.49",
     "@babel/preset-stage-0": "^7.0.0-beta.49",

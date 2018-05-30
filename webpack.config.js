@@ -2,11 +2,11 @@ const path = require('path');
 
 module.exports = {
   entry: {
-    recharts: './src/index.js',
+    'react.echarts': './src/index.js',
   },
   output: {
     path: path.join(__dirname, 'umd'),
-    library: 'recharts',
+    library: 'ReactEcharts',
     libraryTarget: 'umd',
   },
   module: {

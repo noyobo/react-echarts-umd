@@ -1,11 +1,11 @@
-# recharts
+# react-echarts-umd
 
 echarts-for-react umd library
 
 ## UMD
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/recharts@{version}/umd/recharts.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/react-echarts-umd@{version}/umd/react.echarts.js"></script>
 ```
 
 ## Usage
@@ -18,8 +18,8 @@ module.exports = {
   externals: {
     react: 'React',
     'react-dom': 'ReactDOM',
-    'echarts-for-react': 'recharts',
-    recharts: 'recharts',
+    'echarts-for-react': 'react-echarts-umd',
+    'react.echarts': 'ReactEcharts',
   },
   ...
 }
@@ -37,7 +37,7 @@ module.exports = {
   <title>Document</title>
   <script src="https://cdn.jsdelivr.net/npm/react@16.4.0/umd/react.production.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/react-dom@16.4.0/umd/react-dom.production.min.js"></script>
-  <script src="/umd/recharts.js"></script>
+  <script src="/umd/react-echarts.js"></script>
 </head>
 
 <body>
