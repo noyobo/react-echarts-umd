@@ -7,7 +7,7 @@ echarts-for-react umd library
 ## UMD
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/react-echarts-umd@{version}/umd/react.echarts.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/react-echarts-umd/umd/react.echarts.js"></script>
 ```
 
 ## Usage
