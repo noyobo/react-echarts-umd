@@ -12,19 +12,20 @@ echarts-for-react umd library
 
 * webpack config
 
-````js
+```js
 module.exports = {
   ...
   externals: {
     react: 'React',
     'react-dom': 'ReactDOM',
-    'echarts-for-react': 'react-echarts-umd',
-    'react.echarts': 'ReactEcharts',
+    'echarts-for-react': 'ReactEcharts',
+    'react-echarts-umd': 'ReactEcharts',
   },
   ...
 }
+```
 
-- Example
+* Example
 
 ```html
 <!DOCTYPE html>
@@ -46,4 +47,4 @@ module.exports = {
 </body>
 
 </html>
-````
+```
