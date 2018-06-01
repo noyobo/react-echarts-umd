@@ -1,6 +1,6 @@
 # react-echarts-umd
 
-[![](https://img.shields.io/travis/noyobo/react-echarts-umd.svg)](https://travis-ci.org/noyobo/react-echarts-umd) [![Codecov](https://img.shields.io/codecov/c/github/noyobo/react-echarts-umd/master.svg)](https://codecov.io/gh/noyobo/react-echarts-umd/branch/master) [![npm package](https://img.shields.io/npm/v/react-echarts-umd.svg)](https://www.npmjs.org/package/react-echarts-umd) [![NPM downloads](http://img.shields.io/npm/dm/react-echarts-umd.svg)](https://npmjs.org/package/react-echarts-umd)
+[![](https://img.shields.io/travis/noyobo/react-echarts-umd.svg)](https://travis-ci.org/noyobo/react-echarts-umd) [![Codecov](https://img.shields.io/codecov/c/github/noyobo/react-echarts-umd/master.svg)](https://codecov.io/gh/noyobo/react-echarts-umd/branch/master) [![npm package](https://img.shields.io/npm/v/react-echarts-umd.svg)](https://www.npmjs.org/package/react-echarts-umd) [![NPM downloads](http://img.shields.io/npm/dm/react-echarts-umd.svg)](https://npmjs.org/package/react-echarts-umd) [![Greenkeeper badge](https://badges.greenkeeper.io/noyobo/react-echarts-umd.svg)](https://greenkeeper.io/)
 
 echarts-for-react umd library
 
